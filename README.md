@@ -31,12 +31,14 @@ This repository is important as it shows that I am able to persist and manipulat
 clear that I can follow a development process to create a data-driven program that is debugged, tested, refactored, documented and
 that meets a client’s specifications. Additonally, this repository shows my understanding and comprehension of Java, SQL, MySQL and databases.
 
+Your code is logically structured, well spaced and your comments are informative and concise. Variable, method and class names are well-chosen and appropriate. You also make good use of methods that make your code modular, readable and maintainable in the long term. 
+
+This repository is important as it shows my understanding and comprehension of Java, SQL, MySQL and databases fundamentals. It has a menu-driven interface for the user to interact with the program. User input handling is taken into consideration, as well as dealing with potential input errors. Their is database interactions which involves involves connecting to a MySQL database, creating a statement, and executing SQL queries. The application makes complies SQL queries dynamically based on user input.
 ## Installation
 
 To install this project locally, open the repository in your web browser: [PoisePMS](https://github.com/Darren0422/PoisePMS). On the repository page, click on the green "Code" button located near the top-right of the page. From the dropdown menu, select "Download ZIP". This will start the download of the repository as a ZIP file to your computer. Save it on your local storage device. 
 
-<img width="1440" alt="Screenshot 2023-08-13 at 12 25 06" src="https://github.com/Darren0422/Databases/assets/134398985/e9d3fbe6-1b97-4db3-ab67-b40151ac896e">
-
+<img width="1728" alt="Screenshot 2024-01-10 at 14 17 11" src="https://github.com/Darren0422/PoisePMS/assets/134398985/96d4015a-d218-4f0e-a780-695a0fdbcffe">
 
 ##  Usage
 
