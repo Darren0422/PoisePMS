@@ -33,7 +33,7 @@ that meets a client’s specifications. Additonally, this repository shows my un
 
 ## Installation
 
-To install this project locally, open the repository in your web browser: [Databases](https://github.com/Darren0422/Databases). On the repository page, click on the green "Code" button located near the top-right of the page. From the dropdown menu, select "Download ZIP". This will start the download of the repository as a ZIP file to your computer. Save it on your local storage device. 
+To install this project locally, open the repository in your web browser: [PoisePMS](https://github.com/Darren0422/PoisePMS). On the repository page, click on the green "Code" button located near the top-right of the page. From the dropdown menu, select "Download ZIP". This will start the download of the repository as a ZIP file to your computer. Save it on your local storage device. 
 
 <img width="1440" alt="Screenshot 2023-08-13 at 12 25 06" src="https://github.com/Darren0422/Databases/assets/134398985/e9d3fbe6-1b97-4db3-ab67-b40151ac896e">
 
@@ -59,6 +59,11 @@ a MySQL Database called "PoisePMS" was created.
 A table for Projects, Architects, Contractors and Customers was created with various fields shown below. 
 
 <img width="626" alt="Create Tables" src="https://github.com/Darren0422/Databases/assets/134398985/64bd8a35-b794-4d7a-93ec-ac501a5eccd1">
+
+A entity relationship diagram(ERD) that shows the relationships between the tables in the "PoisePMS" database.
+
+![ERD](https://github.com/Darren0422/PoisePMS/assets/134398985/a6c970a6-a199-4bf5-a6b6-f3116bdb404b)
+
 
 #### User Prompts
 To interact with the progam, the user is prompted to enter the number of the aspect of the menu they wish use. The user may also be prompted to enter various information regarding the aspect of the database they are interacting with. 
